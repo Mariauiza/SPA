@@ -19,7 +19,7 @@ Link para o vídeo do projeto: https://youtu.be/tvlFEBf7gn4
 
 ![image](https://github.com/user-attachments/assets/842c8029-c6f0-4ec8-8125-2e075e23cbe5)
 ![image](https://github.com/user-attachments/assets/ec0755f0-3a57-43f7-ad04-8545c3e31d4e)
-![image](https://github.com/user-attachments/assets/3b2284fc-f112-47a4-8b68-cc8a22e0907d)
+s![image](https://github.com/user-attachments/assets/fb66595f-0a13-42d7-992a-e3b8d2719aa2)
 ![image](https://github.com/user-attachments/assets/95e9ed7c-b0cc-41d8-8236-fc22891ad052)
 
 
