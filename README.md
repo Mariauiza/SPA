@@ -1,8 +1,21 @@
-Aplicativo de segurança pessoal;
-Acesso ágil e prático ao contato com entidades de vigilância pública; 
-Funcionalidade de botão emergência; 
-Gratuito a todos.
-![image](https://github.com/user-attachments/assets/3ef6b1a4-b347-4e00-b12a-7c1b358b0f1b)
 
-![WhatsApp Image 2024-08-27 at 21 38 56](https://github.com/user-attachments/assets/3e88e384-f929-44c3-8bf0-8d45f3c4d14c)
+# Aplicativo de Segurança Pessoal
+
+Bem-vindo ao **Aplicativo de Segurança Pessoal**! Este aplicativo foi desenvolvido para fornecer acesso ágil e prático a entidades de vigilância pública em situações de emergência. Ele é completamente gratuito e pode ser utilizado por qualquer pessoa que deseja aumentar sua segurança pessoal.
+
+## Funcionalidades
+
+- **Botão de Emergência:** Um botão de emergência acessível em todas as telas do aplicativo. Ao ser pressionado, ele envia uma mensagem de alerta com a localização do usuário para os contatos de emergência pré-cadastrados e para entidades de vigilância pública.
+  
+- **Acesso Rápido a Entidades de Vigilância Pública:** Contatos de emergência como polícia, bombeiros, e hospitais podem ser acessados rapidamente através do aplicativo. Basta um toque para iniciar uma chamada de emergência.
+  
+- **Localização em Tempo Real:** O aplicativo utiliza o GPS do dispositivo para fornecer sua localização exata aos contatos de emergência e autoridades, garantindo que a ajuda possa chegar o mais rápido possível.
+  
+- **Interface Simples e Intuitiva:** A interface do aplicativo foi projetada para ser fácil de usar, permitindo que qualquer pessoa possa utilizá-lo sem dificuldade, mesmo em situações de alta pressão.
+  
+- **Gratuito e Sem Anúncios:** O aplicativo é totalmente gratuito e não exibe anúncios, garantindo que você tenha uma experiência limpa e sem distrações em momentos críticos.
+
+
+
+
 
