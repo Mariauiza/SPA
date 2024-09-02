@@ -13,8 +13,9 @@ Bem-vindo ao **Aplicativo de Segurança Pessoal**! Este aplicativo foi desenvolv
   
 - **Interface Simples e Intuitiva:** A interface do aplicativo foi projetada para ser fácil de usar, permitindo que qualquer pessoa possa utilizá-lo sem dificuldade, mesmo em situações de alta pressão.
   
-- **Gratuito e Sem Anúncios:** O aplicativo é totalmente gratuito e não exibe anúncios, garantindo que você tenha uma experiência limpa e sem distrações em momentos críticos.
+- **Gratuito:** O aplicativo é totalmente gratuito e acessível para todos!
 
+-- ** Link para o vídeo do projeto: https://youtu.be/tvlFEBf7gn4
 
 
 
