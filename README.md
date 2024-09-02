@@ -3,7 +3,8 @@
 
 Bem-vindo ao **Aplicativo de Segurança Pessoal**! Este aplicativo foi desenvolvido para fornecer acesso ágil e prático a entidades de vigilância pública em situações de emergência. Ele é completamente gratuito e pode ser utilizado por qualquer pessoa que deseja aumentar sua segurança pessoal.
 
-O projeto foi desenvolvido durante todo o ano de 2023 como trabalho de conclusão de curso pela equipe composta por: Maria Luíza Gabriel, Tiago Bernando, Maria Luíza Amaro e Luana Aparecida, juntamente com a cordenação do curso de desenvolvimento de sistemas da escola técnica Ilza Nascimento Pintus.ss
+O projeto foi desenvolvido durante todo o ano de 2023 como trabalho de conclusão de curso pela equipe composta por: Maria Luíza Gabriel, Tiago Bernando, Maria Luíza Amaro e Luana Aparecida, juntamente com a cordenação do curso de desenvolvimento de sistemas da escola técnica Ilza Nascimento Pintus.
+
 
 ## Funcionalidades
 
