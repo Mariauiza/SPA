@@ -18,7 +18,6 @@ Bem-vindo ao **Aplicativo de Segurança Pessoal**! Este aplicativo foi desenvolv
 Link para o vídeo do projeto: https://youtu.be/tvlFEBf7gn4
 
 ![image](https://github.com/user-attachments/assets/9a9dbe4e-ccb6-4cea-8db2-84ed3099db1e)
-![image](https://github.com/user-attachments/assets/07aaf79b-92a1-49c5-9e22-3dd2906a1407)
 ![image](https://github.com/user-attachments/assets/dc0cbe27-0ffd-42aa-85b3-a06bde6f0021)
 ![image](https://github.com/user-attachments/assets/3b2284fc-f112-47a4-8b68-cc8a22e0907d)
 ![image](https://github.com/user-attachments/assets/95e9ed7c-b0cc-41d8-8236-fc22891ad052)
